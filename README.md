@@ -25,6 +25,7 @@ I'm extremely passionate about Technology and loves to develop new hacks. I spen
 
 ### Hosted Project
 
+( Username/Mobile No: 7709915693 | Password: \<Project Name\>@12 | e.g. AssetTrading@12 )
 - [Asset Trading](https://assettrading.azurewebsites.net) - [Azure Developer League Hackathon | Team Zeros & Ones | Runner Up](https://www.hackerearth.com/challenges/hackathon/azure-developer-league-hackathon/)
 - [FastRide](https://fastride.azurewebsites.net) - [AWS Digital Innovation Hackathon | Team Chintamani | Top 5 Finalist](https://www.hackerearth.com/challenges/hackathon/aws-india-digital-innovation-hackathon/)
 - [LifeLink](https://lifelink.eu-de.mybluemix.net/) - [IBM Reimagine Future Hackathon | Team Sukhakarta | Top 11 Finalist](https://www.hackerearth.com/challenges/hackathon/reimaginefuture-hackathon/?utm_source=platform&utm_medium=push&utm_campaign=ReimagineFutureHackathon)
